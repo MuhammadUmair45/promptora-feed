@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-08-07",
   "categories": [
     {
@@ -53,7 +53,7 @@
       "id": "p1",
       "title": "Neon rain, mirror pose",
       "category": "cinematic",
-      "image": "https://picsum.photos/seed/muse1/600/750",
+      "image": "https://loremflickr.com/600/800/neon,portrait?lock=1",
       "featured": true,
       "createdAt": "2026-08-06",
       "tags": [
@@ -62,13 +62,13 @@
         "neon"
       ],
       "prompt": "Ultra realistic, high-resolution cinematic portrait of a person standing in front of a mirror with sleek vertical white light strips in the background. Keep the face from the uploaded image, features exactly the same. Wearing a white button-down shirt, sleeves rolled up. Moody neon-rain reflections on wet glass, teal and magenta rim light, shallow depth of field, 85mm lens, film grain. Vertical 9:16.",
-      "beforeImage": "https://picsum.photos/seed/before1/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=91"
     },
     {
       "id": "p2",
       "title": "Golden hour rooftop",
       "category": "women",
-      "image": "https://picsum.photos/seed/muse2/600/800",
+      "image": "https://loremflickr.com/600/800/woman,rooftop,sunset?lock=2",
       "featured": true,
       "createdAt": "2026-08-05",
       "tags": [
@@ -76,13 +76,13 @@
         "fashion"
       ],
       "prompt": "Editorial fashion portrait of a woman on a city rooftop at golden hour, warm backlight wrapping her hair, soft lens flare. Flowing cream trench coat, wind in the fabric. Keep the uploaded face identical. Cinematic colour grade, 35mm, natural skin texture, bokeh skyline. Vertical 9:16, magazine quality.",
-      "beforeImage": "https://picsum.photos/seed/before2/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=92"
     },
     {
       "id": "p3",
       "title": "Studio power portrait",
       "category": "men",
-      "image": "https://picsum.photos/seed/muse3/600/720",
+      "image": "https://loremflickr.com/600/800/man,studio,portrait?lock=3",
       "featured": false,
       "createdAt": "2026-08-04",
       "tags": [
@@ -90,13 +90,13 @@
         "portrait"
       ],
       "prompt": "Bold high-contrast studio portrait of a man against a deep charcoal backdrop. Single dramatic key light from the left, sculpted shadows. Tailored black blazer, subtle rim light on shoulder. Keep facial features from the uploaded photo unchanged. Ultra sharp, 100mm, premium magazine-cover aesthetic. 4:5.",
-      "beforeImage": "https://picsum.photos/seed/before3/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=93"
     },
     {
       "id": "p4",
       "title": "Rainy street embrace",
       "category": "couple",
-      "image": "https://picsum.photos/seed/muse4/600/780",
+      "image": "https://loremflickr.com/600/800/couple,rain?lock=4",
       "featured": true,
       "createdAt": "2026-08-03",
       "tags": [
@@ -104,13 +104,13 @@
         "night"
       ],
       "prompt": "Romantic cinematic shot of a couple sharing an umbrella on a rainy city street at night. Warm shop-light bokeh behind them, reflections on wet pavement. Keep both faces from the uploaded images identical. Soft film look, teal-orange grade, motion in the rain, 50mm. Vertical 9:16.",
-      "beforeImage": "https://picsum.photos/seed/before4/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=94"
     },
     {
       "id": "p5",
       "title": "Santorini blue steps",
       "category": "travel",
-      "image": "https://picsum.photos/seed/muse5/600/740",
+      "image": "https://loremflickr.com/600/800/woman,santorini?lock=5",
       "featured": false,
       "createdAt": "2026-08-02",
       "tags": [
@@ -118,13 +118,13 @@
         "summer"
       ],
       "prompt": "Travel portrait on the iconic blue-domed steps of Santorini at midday. Person in a flowing white summer dress, Aegean sea behind. Keep the uploaded face exactly. Crisp Mediterranean light, vivid blues and whites, natural candid pose, 28mm wide, postcard vibrance. 4:5.",
-      "beforeImage": "https://picsum.photos/seed/before5/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=95"
     },
     {
       "id": "p6",
       "title": "90s film flash",
       "category": "retro",
-      "image": "https://picsum.photos/seed/muse6/600/820",
+      "image": "https://loremflickr.com/600/800/portrait,vintage?lock=6",
       "featured": false,
       "createdAt": "2026-08-01",
       "tags": [
@@ -138,7 +138,7 @@
       "id": "p7",
       "title": "Superbike, dusk highway",
       "category": "bike",
-      "image": "https://picsum.photos/seed/muse7/600/760",
+      "image": "https://loremflickr.com/600/800/motorcycle,man?lock=7",
       "featured": true,
       "createdAt": "2026-07-30",
       "tags": [
@@ -146,13 +146,13 @@
         "action"
       ],
       "prompt": "Dynamic action portrait of a rider leaning on a sport superbike on an open highway at dusk. Helmet in hand, leather jacket, motion-blurred background. Keep the uploaded face exactly. Cinematic orange sky, chrome reflections, low angle, 35mm, high energy. 9:16.",
-      "beforeImage": "https://picsum.photos/seed/before7/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=97"
     },
     {
       "id": "p8",
       "title": "Minimal DP, soft light",
       "category": "profile",
-      "image": "https://picsum.photos/seed/muse8/600/700",
+      "image": "https://loremflickr.com/600/800/portrait,face?lock=8",
       "featured": false,
       "createdAt": "2026-07-29",
       "tags": [
@@ -160,13 +160,13 @@
         "dp"
       ],
       "prompt": "Clean minimal profile-picture headshot on a soft pastel gradient background. Gentle wraparound lighting, natural smile, sharp eyes. Keep the uploaded face identical, flattering but realistic skin retouch. Centred composition, 85mm, crisp for social avatars. 1:1.",
-      "beforeImage": "https://picsum.photos/seed/before8/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=98"
     },
     {
       "id": "p9",
       "title": "Saree, marble palace",
       "category": "women",
-      "image": "https://picsum.photos/seed/muse9/600/800",
+      "image": "https://loremflickr.com/600/800/woman,saree?lock=9",
       "featured": false,
       "createdAt": "2026-07-28",
       "tags": [
@@ -174,13 +174,13 @@
         "elegant"
       ],
       "prompt": "Elegant portrait of a woman in a richly embroidered silk saree inside a marble palace hall. Warm chandelier light, ornate arches, regal posture. Keep the uploaded face exactly the same. Rich jewel tones, gold detailing, cinematic depth, 50mm. Vertical 9:16.",
-      "beforeImage": "https://picsum.photos/seed/before9/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=99"
     },
     {
       "id": "p10",
       "title": "Foggy forest, backlight",
       "category": "cinematic",
-      "image": "https://picsum.photos/seed/muse10/600/750",
+      "image": "https://loremflickr.com/600/800/forest,portrait?lock=10",
       "featured": false,
       "createdAt": "2026-07-27",
       "tags": [
@@ -188,13 +188,13 @@
         "nature"
       ],
       "prompt": "Atmospheric cinematic portrait in a misty pine forest at dawn. Volumetric god-rays through fog, backlit silhouette edges. Long wool coat. Keep the uploaded face unchanged. Muted green palette, moody film grade, 85mm, quiet and epic. 9:16.",
-      "beforeImage": "https://picsum.photos/seed/before10/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=910"
     },
     {
       "id": "p11",
       "title": "Old-money library",
       "category": "men",
-      "image": "https://picsum.photos/seed/muse11/600/780",
+      "image": "https://loremflickr.com/600/800/man,library?lock=11",
       "featured": false,
       "createdAt": "2026-07-26",
       "tags": [
@@ -202,13 +202,13 @@
         "warm"
       ],
       "prompt": "Refined portrait of a man in a warm-lit vintage library, leather chair, shelves of old books. Tweed blazer, confident relaxed pose. Keep the uploaded face exactly. Amber tungsten light, rich browns, shallow depth, 50mm, editorial old-money aesthetic. 4:5.",
-      "beforeImage": "https://picsum.photos/seed/before11/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=911"
     },
     {
       "id": "p12",
       "title": "Desert dunes at sunset",
       "category": "travel",
-      "image": "https://picsum.photos/seed/muse12/600/730",
+      "image": "https://loremflickr.com/600/800/desert,person?lock=12",
       "featured": false,
       "createdAt": "2026-07-25",
       "tags": [
@@ -216,13 +216,13 @@
         "epic"
       ],
       "prompt": "Traveller standing atop golden sand dunes at sunset, long shadows, flowing scarf caught in the wind. Keep the uploaded face identical. Warm amber light, vast minimal sky, cinematic wide composition, 24mm. Vertical 9:16, epic scale.",
-      "beforeImage": "https://picsum.photos/seed/before12/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=912"
     },
     {
       "id": "p13",
       "title": "Cafe window, candid",
       "category": "couple",
-      "image": "https://picsum.photos/seed/muse13/600/800",
+      "image": "https://loremflickr.com/600/800/couple,cafe?lock=13",
       "featured": false,
       "createdAt": "2026-07-24",
       "tags": [
@@ -230,13 +230,13 @@
         "warm"
       ],
       "prompt": "Candid film-style portrait of a couple laughing by a sunlit cafe window, coffee cups on the table, soft morning light and lace-curtain shadows. Keep both uploaded faces exactly. Warm natural tones, 35mm, authentic joyful moment. 4:5.",
-      "beforeImage": "https://picsum.photos/seed/before13/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=913"
     },
     {
       "id": "p14",
       "title": "70s vinyl aesthetic",
       "category": "retro",
-      "image": "https://picsum.photos/seed/muse14/600/740",
+      "image": "https://loremflickr.com/600/800/portrait,retro?lock=14",
       "featured": false,
       "createdAt": "2026-07-23",
       "tags": [
@@ -249,7 +249,7 @@
       "id": "p15",
       "title": "Corporate LinkedIn",
       "category": "profile",
-      "image": "https://picsum.photos/seed/muse15/600/700",
+      "image": "https://loremflickr.com/600/800/professional,portrait?lock=15",
       "featured": false,
       "createdAt": "2026-07-22",
       "tags": [
@@ -257,13 +257,13 @@
         "headshot"
       ],
       "prompt": "Professional corporate headshot for LinkedIn. Neutral soft-grey studio background, business attire, approachable confident expression, even flattering light. Keep the uploaded face identical. Sharp, clean, high-key, 85mm. 1:1.",
-      "beforeImage": "https://picsum.photos/seed/before15/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=915"
     },
     {
       "id": "p16",
       "title": "Rain window, pensive",
       "category": "women",
-      "image": "https://picsum.photos/seed/muse16/600/790",
+      "image": "https://loremflickr.com/600/800/woman,window?lock=16",
       "featured": false,
       "createdAt": "2026-07-21",
       "tags": [
@@ -271,13 +271,13 @@
         "intimate"
       ],
       "prompt": "Intimate portrait of a woman by a rain-streaked window, soft diffused daylight, contemplative gaze. Keep the uploaded face exactly. Cool desaturated palette, delicate reflections, cinematic stillness, 50mm, shallow focus. 4:5.",
-      "beforeImage": "https://picsum.photos/seed/before16/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=916"
     },
     {
       "id": "p17",
       "title": "Vintage cafe racer",
       "category": "bike",
-      "image": "https://picsum.photos/seed/muse17/600/760",
+      "image": "https://loremflickr.com/600/800/motorcycle,vintage?lock=17",
       "featured": false,
       "createdAt": "2026-07-20",
       "tags": [
@@ -285,13 +285,13 @@
         "vintage"
       ],
       "prompt": "Stylish portrait beside a vintage cafe-racer motorcycle in a sunlit industrial alley. Retro leather jacket, relaxed cool pose. Keep the uploaded face exactly. Warm grade, textured brick, 35mm, timeless moto aesthetic. 9:16.",
-      "beforeImage": "https://picsum.photos/seed/before17/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=917"
     },
     {
       "id": "p18",
       "title": "Car headlights, night",
       "category": "cinematic",
-      "image": "https://picsum.photos/seed/muse18/600/810",
+      "image": "https://loremflickr.com/600/800/portrait,night?lock=18",
       "featured": false,
       "createdAt": "2026-07-19",
       "tags": [
@@ -299,7 +299,7 @@
         "dramatic"
       ],
       "prompt": "Cinematic night portrait lit by warm car headlights on an empty road, lens flare, deep shadows, dramatic contrast. Keep the uploaded face unchanged. Teal-orange grade, moody atmosphere, 50mm, movie-still energy. 9:16.",
-      "beforeImage": "https://picsum.photos/seed/before18/600/800"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=918"
     }
   ]
 }

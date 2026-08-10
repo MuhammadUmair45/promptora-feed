@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-08-07",
   "categories": [
     {
@@ -54,1197 +54,1287 @@
       "title": "Neon Rain Mirror",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/neon,portrait?lock=101",
-      "prompt": "Ultra-realistic cinematic portrait of the person from the uploaded photo standing before a mirror framed by vertical white light strips. Wet glass with teal and magenta neon reflections, moody rain atmosphere, shallow depth of field. Keep their face and identity exactly the same. 85mm, film grain, vertical 9:16.",
+      "prompt": "Ultra-realistic cinematic portrait of the person from the uploaded photo standing before a mirror framed by vertical white light strips. Wet glass with teal and magenta neon reflections, moody rain atmosphere, shallow depth of field. Keep their face and identity exactly the same. 85mm, film grain.",
       "tags": [
         "neon",
         "moody"
       ],
       "featured": true,
       "createdAt": "2026-08-07",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9101"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9101",
+      "ratio": "9:16"
     },
     {
       "id": "cin2",
       "title": "Foggy Forest Dawn",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/forest,portrait?lock=102",
-      "prompt": "Atmospheric cinematic portrait in a misty pine forest at dawn, volumetric god-rays through fog, backlit rim on hair and shoulders. Long wool coat, breath visible in cold air. Keep the uploaded face unchanged. Muted green film grade, 85mm, 9:16.",
+      "prompt": "Atmospheric cinematic portrait in a misty pine forest at dawn, volumetric god-rays through fog, backlit rim on hair and shoulders. Long wool coat, breath visible in cold air. Keep the uploaded face unchanged. Muted green film grade, 85mm.",
       "tags": [
         "moody",
         "nature"
       ],
       "featured": false,
       "createdAt": "2026-08-04",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9102"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9102",
+      "ratio": "9:16"
     },
     {
       "id": "cin3",
       "title": "Headlights at Night",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/night,portrait?lock=103",
-      "prompt": "Cinematic night portrait lit only by warm car headlights on an empty road, dramatic contrast, soft lens flare, deep shadows. Keep the person's face exactly the same. Teal-and-orange grade, movie-still mood, 50mm, 9:16.",
+      "prompt": "Cinematic night portrait lit only by warm car headlights on an empty road, dramatic contrast, soft lens flare, deep shadows. Keep the person's face exactly the same. Teal-and-orange grade, movie-still mood, 50mm.",
       "tags": [
         "night",
         "dramatic"
       ],
       "featured": false,
       "createdAt": "2026-08-01",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9103"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9103",
+      "ratio": "9:16"
     },
     {
       "id": "cin4",
       "title": "Rooftop City Glow",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/rooftop,city,night?lock=104",
-      "prompt": "The person on a rooftop at blue hour, glittering city skyline bokeh behind, cool ambient light with a warm key on the face, stylish coat. Keep their identity identical. Cinematic teal-orange grade, 35mm, 9:16.",
+      "prompt": "The person on a rooftop at blue hour, glittering city skyline bokeh behind, cool ambient light with a warm key on the face, stylish coat. Keep their identity identical. Cinematic teal-orange grade, 35mm.",
       "tags": [
         "city",
         "night"
       ],
       "featured": false,
-      "createdAt": "2026-07-29"
+      "createdAt": "2026-07-29",
+      "ratio": "9:16"
     },
     {
       "id": "cin5",
       "title": "Rain Window Reflection",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/rain,window?lock=105",
-      "prompt": "Moody cinematic portrait beside a rain-streaked window, droplets casting soft shadows across the face, pensive gaze. Keep the uploaded face exactly. Desaturated cool palette, quiet film mood, 50mm, 4:5.",
+      "prompt": "Moody cinematic portrait beside a rain-streaked window, droplets casting soft shadows across the face, pensive gaze. Keep the uploaded face exactly. Desaturated cool palette, quiet film mood, 50mm.",
       "tags": [
         "rain",
         "moody"
       ],
       "featured": false,
-      "createdAt": "2026-07-26"
+      "createdAt": "2026-07-26",
+      "ratio": "4:5"
     },
     {
       "id": "cin6",
       "title": "Spotlight in the Dark",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/studio,dramatic?lock=106",
-      "prompt": "The person in a dark warehouse under a single hard spotlight, strong chiaroscuro, smoke in the air catching the beam. Keep their face and features unchanged. High-contrast grade, 85mm, 9:16.",
+      "prompt": "The person in a dark warehouse under a single hard spotlight, strong chiaroscuro, smoke in the air catching the beam. Keep their face and features unchanged. High-contrast grade, 85mm.",
       "tags": [
         "dramatic",
         "studio"
       ],
       "featured": false,
-      "createdAt": "2026-07-23"
+      "createdAt": "2026-07-23",
+      "ratio": "9:16"
     },
     {
       "id": "cin7",
       "title": "Sun Rays Through Blinds",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/portrait,shadow?lock=107",
-      "prompt": "Cinematic portrait with warm sunlight slicing through window blinds, striped light-and-shadow across the face, dust floating in the beams. Keep the uploaded identity exactly. Golden film tone, 50mm, 4:5.",
+      "prompt": "Cinematic portrait with warm sunlight slicing through window blinds, striped light-and-shadow across the face, dust floating in the beams. Keep the uploaded identity exactly. Golden film tone, 50mm.",
       "tags": [
         "golden",
         "shadow"
       ],
       "featured": false,
-      "createdAt": "2026-07-20"
+      "createdAt": "2026-07-20",
+      "ratio": "4:5"
     },
     {
       "id": "cin8",
       "title": "Neon Alley",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/neon,city?lock=108",
-      "prompt": "The person in a rain-slick neon alley at night, pink and cyan signage glowing, cyberpunk atmosphere, reflective puddles. Keep their face identical. Cinematic sci-fi grade, 35mm, 9:16.",
+      "prompt": "The person in a rain-slick neon alley at night, pink and cyan signage glowing, cyberpunk atmosphere, reflective puddles. Keep their face identical. Cinematic sci-fi grade, 35mm.",
       "tags": [
         "neon",
         "cyberpunk"
       ],
       "featured": false,
-      "createdAt": "2026-07-17"
+      "createdAt": "2026-07-17",
+      "ratio": "9:16"
     },
     {
       "id": "cin9",
       "title": "Candlelit Chiaroscuro",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/candle,portrait?lock=109",
-      "prompt": "Intimate candlelit portrait, warm flickering glow sculpting the face out of deep shadow, Old-Master painterly mood. Keep the uploaded face exactly. Rich amber tones, 85mm, 4:5.",
+      "prompt": "Intimate candlelit portrait, warm flickering glow sculpting the face out of deep shadow, Old-Master painterly mood. Keep the uploaded face exactly. Rich amber tones, 85mm.",
       "tags": [
         "warm",
         "painterly"
       ],
       "featured": false,
-      "createdAt": "2026-07-14"
+      "createdAt": "2026-07-14",
+      "ratio": "4:5"
     },
     {
       "id": "cin10",
       "title": "Storm Wind Epic",
       "category": "cinematic",
       "image": "https://loremflickr.com/600/800/storm,dramatic?lock=110",
-      "prompt": "Dramatic cinematic portrait against dark storm clouds, wind whipping hair and clothing, moody diffused light before rain. Keep the person's identity unchanged. Desaturated epic grade, 35mm, 9:16.",
+      "prompt": "Dramatic cinematic portrait against dark storm clouds, wind whipping hair and clothing, moody diffused light before rain. Keep the person's identity unchanged. Desaturated epic grade, 35mm.",
       "tags": [
         "epic",
         "moody"
       ],
       "featured": false,
-      "createdAt": "2026-07-11"
+      "createdAt": "2026-07-11",
+      "ratio": "9:16"
     },
     {
       "id": "por1",
       "title": "Soft Beauty Studio",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/beauty,studio?lock=111",
-      "prompt": "Clean beauty portrait on a soft neutral backdrop, large softbox wraparound light, flawless natural skin, catchlights in the eyes. Keep the uploaded face exactly the same. 100mm, crisp and flattering, 4:5.",
+      "prompt": "Clean beauty portrait on a soft neutral backdrop, large softbox wraparound light, flawless natural skin, catchlights in the eyes. Keep the uploaded face exactly the same. 100mm, crisp and flattering.",
       "tags": [
         "beauty",
         "clean"
       ],
       "featured": false,
       "createdAt": "2026-08-06",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9111"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9111",
+      "ratio": "4:5"
     },
     {
       "id": "por2",
       "title": "Fine-Art Black & White",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/blackandwhite,portrait?lock=112",
-      "prompt": "Timeless black-and-white fine-art portrait, gentle directional light, rich tonal range, subtle film grain. Keep the person's features identical. Elegant and quiet, 85mm, 4:5.",
+      "prompt": "Timeless black-and-white fine-art portrait, gentle directional light, rich tonal range, subtle film grain. Keep the person's features identical. Elegant and quiet, 85mm.",
       "tags": [
         "bw",
         "fineart"
       ],
       "featured": false,
       "createdAt": "2026-08-03",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9112"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9112",
+      "ratio": "4:5"
     },
     {
       "id": "por3",
       "title": "Rembrandt Light",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/portrait,studio?lock=113",
-      "prompt": "Classic Rembrandt-lit portrait, the signature triangle of light on the cheek, deep controlled shadows, dark backdrop. Keep the uploaded identity exactly. Painterly, 85mm, 4:5.",
+      "prompt": "Classic Rembrandt-lit portrait, the signature triangle of light on the cheek, deep controlled shadows, dark backdrop. Keep the uploaded identity exactly. Painterly, 85mm.",
       "tags": [
         "classic",
         "studio"
       ],
       "featured": false,
       "createdAt": "2026-07-31",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9113"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9113",
+      "ratio": "4:5"
     },
     {
       "id": "por4",
       "title": "Natural Window Light",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/window,natural?lock=114",
-      "prompt": "Minimal portrait by a large window, soft daylight from one side, calm neutral wardrobe, gentle falloff into shadow. Keep the face unchanged. Honest and natural, 50mm, 4:5.",
+      "prompt": "Minimal portrait by a large window, soft daylight from one side, calm neutral wardrobe, gentle falloff into shadow. Keep the face unchanged. Honest and natural, 50mm.",
       "tags": [
         "natural",
         "minimal"
       ],
       "featured": false,
-      "createdAt": "2026-07-28"
+      "createdAt": "2026-07-28",
+      "ratio": "4:5"
     },
     {
       "id": "por5",
       "title": "Editorial Colour Gel",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/fashion,neon?lock=115",
-      "prompt": "High-fashion editorial portrait with bold coloured gel lighting in magenta and blue, confident pose, glossy magazine finish. Keep the person's face exactly. 85mm, striking, 4:5.",
+      "prompt": "High-fashion editorial portrait with bold coloured gel lighting in magenta and blue, confident pose, glossy magazine finish. Keep the person's face exactly. 85mm, striking.",
       "tags": [
         "fashion",
         "bold"
       ],
       "featured": false,
-      "createdAt": "2026-07-25"
+      "createdAt": "2026-07-25",
+      "ratio": "4:5"
     },
     {
       "id": "por6",
       "title": "Golden Hour Outdoor",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/golden,portrait?lock=116",
-      "prompt": "Warm outdoor portrait at golden hour, sun flare behind, soft haze, earthy tones, relaxed natural expression. Keep the uploaded face identical. 35mm, dreamy, 4:5.",
+      "prompt": "Warm outdoor portrait at golden hour, sun flare behind, soft haze, earthy tones, relaxed natural expression. Keep the uploaded face identical. 35mm, dreamy.",
       "tags": [
         "golden",
         "dreamy"
       ],
       "featured": false,
-      "createdAt": "2026-07-22"
+      "createdAt": "2026-07-22",
+      "ratio": "4:5"
     },
     {
       "id": "por7",
       "title": "Split Lighting",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/dramatic,portrait?lock=117",
-      "prompt": "Dramatic split-lit portrait, half the face in light and half in shadow, bold and graphic, dark background. Keep their identity unchanged. High-contrast, 85mm, 4:5.",
+      "prompt": "Dramatic split-lit portrait, half the face in light and half in shadow, bold and graphic, dark background. Keep their identity unchanged. High-contrast, 85mm.",
       "tags": [
         "dramatic",
         "bold"
       ],
       "featured": false,
-      "createdAt": "2026-07-19"
+      "createdAt": "2026-07-19",
+      "ratio": "4:5"
     },
     {
       "id": "por8",
       "title": "Pastel Backdrop",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/pastel,studio?lock=118",
-      "prompt": "Gentle portrait on a pastel backdrop, even soft light, minimal styling, fresh and modern. Keep the uploaded face exactly. Clean colour, 85mm, 4:5.",
+      "prompt": "Gentle portrait on a pastel backdrop, even soft light, minimal styling, fresh and modern. Keep the uploaded face exactly. Clean colour, 85mm.",
       "tags": [
         "pastel",
         "modern"
       ],
       "featured": false,
-      "createdAt": "2026-07-16"
+      "createdAt": "2026-07-16",
+      "ratio": "4:5"
     },
     {
       "id": "por9",
       "title": "Skin-Texture Close-Up",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/closeup,portrait?lock=119",
-      "prompt": "Detailed close-up portrait showing real skin texture and freckles, soft directional light, shallow focus on the eyes. Keep the person's features identical. 100mm macro feel, 1:1.",
+      "prompt": "Detailed close-up portrait showing real skin texture and freckles, soft directional light, shallow focus on the eyes. Keep the person's features identical. 100mm macro feel.",
       "tags": [
         "closeup",
         "detail"
       ],
       "featured": false,
-      "createdAt": "2026-07-13"
+      "createdAt": "2026-07-13",
+      "ratio": "1:1"
     },
     {
       "id": "por10",
       "title": "Low-Key Moody",
       "category": "portrait",
       "image": "https://loremflickr.com/600/800/lowkey,portrait?lock=120",
-      "prompt": "Low-key moody headshot emerging from near-black, single soft rim light, thoughtful expression. Keep the uploaded identity exactly. Cinematic and restrained, 85mm, 4:5.",
+      "prompt": "Low-key moody headshot emerging from near-black, single soft rim light, thoughtful expression. Keep the uploaded identity exactly. Cinematic and restrained, 85mm.",
       "tags": [
         "moody",
         "lowkey"
       ],
       "featured": false,
-      "createdAt": "2026-07-10"
+      "createdAt": "2026-07-10",
+      "ratio": "4:5"
     },
     {
       "id": "cou1",
       "title": "Rainy Umbrella",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,rain?lock=121",
-      "prompt": "Romantic cinematic shot of the couple from the uploaded photos sharing an umbrella on a rainy night street, warm shop-light bokeh, reflections on wet pavement. Keep both faces exactly the same. Teal-orange film grade, 50mm, 9:16.",
+      "prompt": "Romantic cinematic shot of the couple from the uploaded photos sharing an umbrella on a rainy night street, warm shop-light bokeh, reflections on wet pavement. Keep both faces exactly the same. Teal-orange film grade, 50mm.",
       "tags": [
         "romantic",
         "night"
       ],
       "featured": false,
       "createdAt": "2026-08-05",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9121"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9121",
+      "ratio": "9:16"
     },
     {
       "id": "cou2",
       "title": "Cafe Window Laugh",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,cafe?lock=122",
-      "prompt": "Candid film-style portrait of the couple laughing by a sunlit cafe window, coffee cups, soft morning light and lace-curtain shadows. Keep both uploaded faces identical. Warm natural tones, 35mm, 4:5.",
+      "prompt": "Candid film-style portrait of the couple laughing by a sunlit cafe window, coffee cups, soft morning light and lace-curtain shadows. Keep both uploaded faces identical. Warm natural tones, 35mm.",
       "tags": [
         "candid",
         "warm"
       ],
       "featured": false,
       "createdAt": "2026-08-02",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9122"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9122",
+      "ratio": "4:5"
     },
     {
       "id": "cou3",
       "title": "Beach Sunset Silhouette",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,beach,sunset?lock=123",
-      "prompt": "The couple on a beach at sunset, warm backlight and lens flare, gentle silhouette, waves behind. Keep both identities exactly. Golden cinematic grade, 35mm, 9:16.",
+      "prompt": "The couple on a beach at sunset, warm backlight and lens flare, gentle silhouette, waves behind. Keep both identities exactly. Golden cinematic grade, 35mm.",
       "tags": [
         "beach",
         "sunset"
       ],
       "featured": true,
       "createdAt": "2026-07-30",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9123"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9123",
+      "ratio": "9:16"
     },
     {
       "id": "cou4",
       "title": "Autumn Park Walk",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,autumn?lock=124",
-      "prompt": "The couple walking through an autumn park, falling leaves, warm amber light, cozy knitwear. Keep both faces unchanged. Soft film tone, 50mm, 4:5.",
+      "prompt": "The couple walking through an autumn park, falling leaves, warm amber light, cozy knitwear. Keep both faces unchanged. Soft film tone, 50mm.",
       "tags": [
         "autumn",
         "cozy"
       ],
       "featured": false,
-      "createdAt": "2026-07-27"
+      "createdAt": "2026-07-27",
+      "ratio": "4:5"
     },
     {
       "id": "cou5",
       "title": "Rooftop Night",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,city,night?lock=125",
-      "prompt": "The couple on a city rooftop at night, skyline bokeh, string lights overhead, intimate warm key light. Keep both uploaded faces identical. Cinematic, 35mm, 9:16.",
+      "prompt": "The couple on a city rooftop at night, skyline bokeh, string lights overhead, intimate warm key light. Keep both uploaded faces identical. Cinematic, 35mm.",
       "tags": [
         "city",
         "night"
       ],
       "featured": false,
-      "createdAt": "2026-07-24"
+      "createdAt": "2026-07-24",
+      "ratio": "9:16"
     },
     {
       "id": "cou6",
       "title": "Home Fairy Lights",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,cozy?lock=126",
-      "prompt": "Cozy indoor portrait of the couple among warm fairy lights and blankets, soft golden glow, tender mood. Keep both identities exactly. 50mm, dreamy bokeh, 4:5.",
+      "prompt": "Cozy indoor portrait of the couple among warm fairy lights and blankets, soft golden glow, tender mood. Keep both identities exactly. 50mm, dreamy bokeh.",
       "tags": [
         "cozy",
         "warm"
       ],
       "featured": false,
-      "createdAt": "2026-07-21"
+      "createdAt": "2026-07-21",
+      "ratio": "4:5"
     },
     {
       "id": "cou7",
       "title": "Traditional Wedding",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,wedding?lock=127",
-      "prompt": "Elegant portrait of the couple in richly detailed traditional wedding attire, ornate setting, warm ceremonial light. Keep both uploaded faces the same. Rich jewel tones, 50mm, 4:5.",
+      "prompt": "Elegant portrait of the couple in richly detailed traditional wedding attire, ornate setting, warm ceremonial light. Keep both uploaded faces the same. Rich jewel tones, 50mm.",
       "tags": [
         "wedding",
         "elegant"
       ],
       "featured": false,
-      "createdAt": "2026-07-18"
+      "createdAt": "2026-07-18",
+      "ratio": "4:5"
     },
     {
       "id": "cou8",
       "title": "Dancing in Lights",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,dance?lock=128",
-      "prompt": "The couple dancing under warm string lights at dusk, gentle motion, joyful connection, soft bokeh. Keep both faces identical. Cinematic warm grade, 35mm, 9:16.",
+      "prompt": "The couple dancing under warm string lights at dusk, gentle motion, joyful connection, soft bokeh. Keep both faces identical. Cinematic warm grade, 35mm.",
       "tags": [
         "dance",
         "joyful"
       ],
       "featured": false,
-      "createdAt": "2026-07-15"
+      "createdAt": "2026-07-15",
+      "ratio": "9:16"
     },
     {
       "id": "cou9",
       "title": "Snowy Embrace",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,snow?lock=129",
-      "prompt": "The couple embracing in gentle snowfall, cozy winter coats, soft cool light with warm cheeks, flakes catching the light. Keep both identities exactly. 50mm, 9:16.",
+      "prompt": "The couple embracing in gentle snowfall, cozy winter coats, soft cool light with warm cheeks, flakes catching the light. Keep both identities exactly. 50mm.",
       "tags": [
         "snow",
         "winter"
       ],
       "featured": false,
-      "createdAt": "2026-07-12"
+      "createdAt": "2026-07-12",
+      "ratio": "9:16"
     },
     {
       "id": "cou10",
       "title": "Golden Field",
       "category": "couple",
       "image": "https://loremflickr.com/600/800/couple,field,golden?lock=130",
-      "prompt": "The couple in a golden wheat field at sunset, warm haze, relaxed candid closeness, wind in the grass. Keep both uploaded faces unchanged. Cinematic golden grade, 35mm, 4:5.",
+      "prompt": "The couple in a golden wheat field at sunset, warm haze, relaxed candid closeness, wind in the grass. Keep both uploaded faces unchanged. Cinematic golden grade, 35mm.",
       "tags": [
         "golden",
         "candid"
       ],
       "featured": false,
-      "createdAt": "2026-07-09"
+      "createdAt": "2026-07-09",
+      "ratio": "4:5"
     },
     {
       "id": "men1",
       "title": "Studio Power",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,studio?lock=131",
-      "prompt": "Bold high-contrast studio portrait of the man from the uploaded photo against deep charcoal, dramatic side key, tailored black blazer. Keep his face and features unchanged. Ultra-sharp magazine-cover look, 100mm, 4:5.",
+      "prompt": "Bold high-contrast studio portrait of the man from the uploaded photo against deep charcoal, dramatic side key, tailored black blazer. Keep his face and features unchanged. Ultra-sharp magazine-cover look, 100mm.",
       "tags": [
         "studio",
         "bold"
       ],
       "featured": false,
       "createdAt": "2026-08-04",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9131"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9131",
+      "ratio": "4:5"
     },
     {
       "id": "men2",
       "title": "Old-Money Library",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,library?lock=132",
-      "prompt": "Refined portrait of the man in a warm-lit vintage library, tweed blazer, leather chair, shelves of old books. Keep his identity exactly. Amber tungsten light, 50mm, 4:5.",
+      "prompt": "Refined portrait of the man in a warm-lit vintage library, tweed blazer, leather chair, shelves of old books. Keep his identity exactly. Amber tungsten light, 50mm.",
       "tags": [
         "classic",
         "warm"
       ],
       "featured": false,
       "createdAt": "2026-08-01",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9132"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9132",
+      "ratio": "4:5"
     },
     {
       "id": "men3",
       "title": "Urban Street Style",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,street?lock=133",
-      "prompt": "The man in modern street style on a city street, overcast soft light, confident stride, muted urban palette. Keep his face identical. Editorial, 35mm, 9:16.",
+      "prompt": "The man in modern street style on a city street, overcast soft light, confident stride, muted urban palette. Keep his face identical. Editorial, 35mm.",
       "tags": [
         "street",
         "editorial"
       ],
       "featured": false,
       "createdAt": "2026-07-29",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9133"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9133",
+      "ratio": "9:16"
     },
     {
       "id": "men4",
       "title": "Businessman Rooftop",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,business,city?lock=134",
-      "prompt": "The man in a sharp suit on a rooftop, skyline behind, blue-hour ambient with a warm key, powerful composed pose. Keep his identity unchanged. Cinematic, 35mm, 4:5.",
+      "prompt": "The man in a sharp suit on a rooftop, skyline behind, blue-hour ambient with a warm key, powerful composed pose. Keep his identity unchanged. Cinematic, 35mm.",
       "tags": [
         "business",
         "city"
       ],
       "featured": false,
-      "createdAt": "2026-07-26"
+      "createdAt": "2026-07-26",
+      "ratio": "4:5"
     },
     {
       "id": "men5",
       "title": "Rugged Mountain",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,mountain?lock=135",
-      "prompt": "Rugged outdoor portrait of the man on a windswept mountain ridge, natural cool light, textured jacket, adventurous mood. Keep his face exactly. Epic wide, 35mm, 9:16.",
+      "prompt": "Rugged outdoor portrait of the man on a windswept mountain ridge, natural cool light, textured jacket, adventurous mood. Keep his face exactly. Epic wide, 35mm.",
       "tags": [
         "outdoor",
         "epic"
       ],
       "featured": false,
-      "createdAt": "2026-07-23"
+      "createdAt": "2026-07-23",
+      "ratio": "9:16"
     },
     {
       "id": "men6",
       "title": "Black-Tie Classic",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,suit,formal?lock=136",
-      "prompt": "Classic black-tie portrait of the man in a tuxedo, elegant dark backdrop, soft cinematic key, timeless and sharp. Keep his uploaded identity the same. 85mm, 4:5.",
+      "prompt": "Classic black-tie portrait of the man in a tuxedo, elegant dark backdrop, soft cinematic key, timeless and sharp. Keep his uploaded identity the same. 85mm.",
       "tags": [
         "formal",
         "classic"
       ],
       "featured": false,
-      "createdAt": "2026-07-20"
+      "createdAt": "2026-07-20",
+      "ratio": "4:5"
     },
     {
       "id": "men7",
       "title": "Athletic Gym",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,gym,fitness?lock=137",
-      "prompt": "Dynamic gym portrait of the man, dramatic low light, defined form, sweat-lit highlights, intense focus. Keep his face unchanged. High-contrast, 50mm, 4:5.",
+      "prompt": "Dynamic gym portrait of the man, dramatic low light, defined form, sweat-lit highlights, intense focus. Keep his face unchanged. High-contrast, 50mm.",
       "tags": [
         "fitness",
         "gym"
       ],
       "featured": false,
-      "createdAt": "2026-07-17"
+      "createdAt": "2026-07-17",
+      "ratio": "4:5"
     },
     {
       "id": "men8",
       "title": "Vintage Barbershop",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,barbershop?lock=138",
-      "prompt": "The man in a classic vintage barbershop, warm ambient light, crisp styling, retro tiled backdrop. Keep his identity exactly. Film tone, 35mm, 4:5.",
+      "prompt": "The man in a classic vintage barbershop, warm ambient light, crisp styling, retro tiled backdrop. Keep his identity exactly. Film tone, 35mm.",
       "tags": [
         "retro",
         "warm"
       ],
       "featured": false,
-      "createdAt": "2026-07-14"
+      "createdAt": "2026-07-14",
+      "ratio": "4:5"
     },
     {
       "id": "men9",
       "title": "Beach Linen",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,beach,linen?lock=139",
-      "prompt": "Relaxed portrait of the man in light linen on a bright beach, warm sun, breezy natural mood, soft flare. Keep his uploaded face identical. 35mm, airy, 4:5.",
+      "prompt": "Relaxed portrait of the man in light linen on a bright beach, warm sun, breezy natural mood, soft flare. Keep his uploaded face identical. 35mm, airy.",
       "tags": [
         "beach",
         "summer"
       ],
       "featured": false,
-      "createdAt": "2026-07-11"
+      "createdAt": "2026-07-11",
+      "ratio": "4:5"
     },
     {
       "id": "men10",
       "title": "Leather Moody",
       "category": "men",
       "image": "https://loremflickr.com/600/800/man,leather?lock=140",
-      "prompt": "Moody portrait of the man in a leather jacket against a dark textured wall, single hard light, cool confident edge. Keep his features unchanged. Cinematic, 85mm, 4:5.",
+      "prompt": "Moody portrait of the man in a leather jacket against a dark textured wall, single hard light, cool confident edge. Keep his features unchanged. Cinematic, 85mm.",
       "tags": [
         "moody",
         "edgy"
       ],
       "featured": false,
-      "createdAt": "2026-07-08"
+      "createdAt": "2026-07-08",
+      "ratio": "4:5"
     },
     {
       "id": "wom1",
       "title": "Golden Rooftop",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,rooftop,sunset?lock=141",
-      "prompt": "Editorial portrait of the woman from the uploaded photo on a rooftop at golden hour, warm backlight in the hair, flowing cream trench coat, soft flare. Keep her face identical. Cinematic, 35mm, 9:16.",
+      "prompt": "Editorial portrait of the woman from the uploaded photo on a rooftop at golden hour, warm backlight in the hair, flowing cream trench coat, soft flare. Keep her face identical. Cinematic, 35mm.",
       "tags": [
         "golden",
         "fashion"
       ],
       "featured": true,
       "createdAt": "2026-08-03",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9141"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9141",
+      "ratio": "9:16"
     },
     {
       "id": "wom2",
       "title": "Saree Palace",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,saree?lock=142",
-      "prompt": "Elegant portrait of the woman in a richly embroidered silk saree inside a marble palace hall, chandelier light, regal posture. Keep her uploaded face the same. Rich jewel tones, 50mm, 9:16.",
+      "prompt": "Elegant portrait of the woman in a richly embroidered silk saree inside a marble palace hall, chandelier light, regal posture. Keep her uploaded face the same. Rich jewel tones, 50mm.",
       "tags": [
         "ethnic",
         "elegant"
       ],
       "featured": false,
       "createdAt": "2026-07-31",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9142"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9142",
+      "ratio": "9:16"
     },
     {
       "id": "wom3",
       "title": "Rain Window",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,window,rain?lock=143",
-      "prompt": "Intimate portrait of the woman by a rain-streaked window, soft daylight, contemplative gaze. Keep her identity exactly. Cool desaturated palette, 50mm, 4:5.",
+      "prompt": "Intimate portrait of the woman by a rain-streaked window, soft daylight, contemplative gaze. Keep her identity exactly. Cool desaturated palette, 50mm.",
       "tags": [
         "moody",
         "intimate"
       ],
       "featured": false,
       "createdAt": "2026-07-28",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9143"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9143",
+      "ratio": "4:5"
     },
     {
       "id": "wom4",
       "title": "Floral Garden",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,floral,garden?lock=144",
-      "prompt": "The woman in a floral dress in a blooming garden, soft daylight, fresh natural colours, gentle smile. Keep her face unchanged. Dreamy, 35mm, 4:5.",
+      "prompt": "The woman in a floral dress in a blooming garden, soft daylight, fresh natural colours, gentle smile. Keep her face unchanged. Dreamy, 35mm.",
       "tags": [
         "floral",
         "fresh"
       ],
       "featured": false,
-      "createdAt": "2026-07-25"
+      "createdAt": "2026-07-25",
+      "ratio": "4:5"
     },
     {
       "id": "wom5",
       "title": "Evening Gown",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,gown,elegant?lock=145",
-      "prompt": "Glamorous portrait of the woman in an elegant evening gown, dramatic soft key light, luxurious dark backdrop. Keep her uploaded identity the same. Editorial, 85mm, 4:5.",
+      "prompt": "Glamorous portrait of the woman in an elegant evening gown, dramatic soft key light, luxurious dark backdrop. Keep her uploaded identity the same. Editorial, 85mm.",
       "tags": [
         "glam",
         "elegant"
       ],
       "featured": false,
-      "createdAt": "2026-07-22"
+      "createdAt": "2026-07-22",
+      "ratio": "4:5"
     },
     {
       "id": "wom6",
       "title": "Boho Desert",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,desert,boho?lock=146",
-      "prompt": "The woman in flowing boho attire on golden desert dunes at sunset, warm wind, earthy tones. Keep her face identical. Cinematic golden grade, 35mm, 9:16.",
+      "prompt": "The woman in flowing boho attire on golden desert dunes at sunset, warm wind, earthy tones. Keep her face identical. Cinematic golden grade, 35mm.",
       "tags": [
         "boho",
         "desert"
       ],
       "featured": false,
-      "createdAt": "2026-07-19"
+      "createdAt": "2026-07-19",
+      "ratio": "9:16"
     },
     {
       "id": "wom7",
       "title": "Cozy Coffee Shop",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,cafe?lock=147",
-      "prompt": "Candid portrait of the woman in a cozy coffee shop, warm window light, relaxed genuine expression, soft bokeh. Keep her identity exactly. 50mm, 4:5.",
+      "prompt": "Candid portrait of the woman in a cozy coffee shop, warm window light, relaxed genuine expression, soft bokeh. Keep her identity exactly. 50mm.",
       "tags": [
         "cozy",
         "candid"
       ],
       "featured": false,
-      "createdAt": "2026-07-16"
+      "createdAt": "2026-07-16",
+      "ratio": "4:5"
     },
     {
       "id": "wom8",
       "title": "Red-Carpet Glam",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,glam?lock=148",
-      "prompt": "Red-carpet glam portrait of the woman, polished styling, flattering key light, confident pose, subtle sparkle. Keep her uploaded face the same. 85mm, 4:5.",
+      "prompt": "Red-carpet glam portrait of the woman, polished styling, flattering key light, confident pose, subtle sparkle. Keep her uploaded face the same. 85mm.",
       "tags": [
         "glam",
         "luxury"
       ],
       "featured": false,
-      "createdAt": "2026-07-13"
+      "createdAt": "2026-07-13",
+      "ratio": "4:5"
     },
     {
       "id": "wom9",
       "title": "Minimal Beauty",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,beauty,studio?lock=149",
-      "prompt": "Minimal beauty portrait of the woman on a soft neutral backdrop, clean wraparound light, natural glowing skin. Keep her features unchanged. 100mm, 1:1.",
+      "prompt": "Minimal beauty portrait of the woman on a soft neutral backdrop, clean wraparound light, natural glowing skin. Keep her features unchanged. 100mm.",
       "tags": [
         "beauty",
         "clean"
       ],
       "featured": false,
-      "createdAt": "2026-07-10"
+      "createdAt": "2026-07-10",
+      "ratio": "1:1"
     },
     {
       "id": "wom10",
       "title": "Cultural Attire",
       "category": "women",
       "image": "https://loremflickr.com/600/800/woman,traditional?lock=150",
-      "prompt": "Portrait of the woman in beautifully detailed traditional cultural attire, warm respectful light, ornate setting. Keep her uploaded identity exactly. Rich tones, 50mm, 4:5.",
+      "prompt": "Portrait of the woman in beautifully detailed traditional cultural attire, warm respectful light, ornate setting. Keep her uploaded identity exactly. Rich tones, 50mm.",
       "tags": [
         "ethnic",
         "cultural"
       ],
       "featured": false,
-      "createdAt": "2026-07-07"
+      "createdAt": "2026-07-07",
+      "ratio": "4:5"
     },
     {
       "id": "tra1",
       "title": "Santorini Steps",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/santorini,woman?lock=151",
-      "prompt": "Travel portrait of the person on the iconic blue-domed steps of Santorini at midday, flowing white outfit, Aegean sea behind. Keep the uploaded face exactly. Crisp Mediterranean light, 28mm, 4:5.",
+      "prompt": "Travel portrait of the person on the iconic blue-domed steps of Santorini at midday, flowing white outfit, Aegean sea behind. Keep the uploaded face exactly. Crisp Mediterranean light, 28mm.",
       "tags": [
         "travel",
         "summer"
       ],
       "featured": false,
       "createdAt": "2026-08-02",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9151"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9151",
+      "ratio": "4:5"
     },
     {
       "id": "tra2",
       "title": "Desert Dunes",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/desert,person?lock=152",
-      "prompt": "The person atop golden sand dunes at sunset, long shadows, flowing scarf caught in the wind. Keep their identity unchanged. Warm amber wide shot, 24mm, 9:16.",
+      "prompt": "The person atop golden sand dunes at sunset, long shadows, flowing scarf caught in the wind. Keep their identity unchanged. Warm amber wide shot, 24mm.",
       "tags": [
         "desert",
         "epic"
       ],
       "featured": false,
       "createdAt": "2026-07-30",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9152"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9152",
+      "ratio": "9:16"
     },
     {
       "id": "tra3",
       "title": "Paris Cafe",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/paris,eiffel?lock=153",
-      "prompt": "Chic travel portrait at a Parisian street cafe with the Eiffel Tower in soft focus behind, warm afternoon light, stylish outfit. Keep the uploaded face identical. 35mm, 4:5.",
+      "prompt": "Chic travel portrait at a Parisian street cafe with the Eiffel Tower in soft focus behind, warm afternoon light, stylish outfit. Keep the uploaded face identical. 35mm.",
       "tags": [
         "paris",
         "chic"
       ],
       "featured": false,
       "createdAt": "2026-07-27",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9153"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9153",
+      "ratio": "4:5"
     },
     {
       "id": "tra4",
       "title": "Tokyo Neon",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/tokyo,neon?lock=154",
-      "prompt": "The person in a vibrant Tokyo street at night, glowing neon signage, energetic city bokeh. Keep their identity exactly. Cinematic neon grade, 35mm, 9:16.",
+      "prompt": "The person in a vibrant Tokyo street at night, glowing neon signage, energetic city bokeh. Keep their identity exactly. Cinematic neon grade, 35mm.",
       "tags": [
         "tokyo",
         "neon"
       ],
       "featured": true,
-      "createdAt": "2026-07-24"
+      "createdAt": "2026-07-24",
+      "ratio": "9:16"
     },
     {
       "id": "tra5",
       "title": "Venice Canal",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/venice,canal?lock=155",
-      "prompt": "Travel portrait by a Venice canal, gondola and pastel buildings behind, warm golden light. Keep the uploaded face unchanged. Romantic tone, 35mm, 4:5.",
+      "prompt": "Travel portrait by a Venice canal, gondola and pastel buildings behind, warm golden light. Keep the uploaded face unchanged. Romantic tone, 35mm.",
       "tags": [
         "venice",
         "romantic"
       ],
       "featured": false,
-      "createdAt": "2026-07-21"
+      "createdAt": "2026-07-21",
+      "ratio": "4:5"
     },
     {
       "id": "tra6",
       "title": "Swiss Alps",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/alps,snow?lock=156",
-      "prompt": "The person on a snowy Swiss alpine viewpoint, crisp cool light, dramatic peaks behind, cozy winter wear. Keep their face identical. Epic wide, 24mm, 9:16.",
+      "prompt": "The person on a snowy Swiss alpine viewpoint, crisp cool light, dramatic peaks behind, cozy winter wear. Keep their face identical. Epic wide, 24mm.",
       "tags": [
         "snow",
         "epic"
       ],
       "featured": false,
-      "createdAt": "2026-07-18"
+      "createdAt": "2026-07-18",
+      "ratio": "9:16"
     },
     {
       "id": "tra7",
       "title": "Bali Rice Terraces",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/bali,rice?lock=157",
-      "prompt": "Travel portrait among lush green Bali rice terraces, soft tropical light, relaxed summer outfit. Keep the uploaded identity exactly. Vivid greens, 35mm, 4:5.",
+      "prompt": "Travel portrait among lush green Bali rice terraces, soft tropical light, relaxed summer outfit. Keep the uploaded identity exactly. Vivid greens, 35mm.",
       "tags": [
         "bali",
         "tropical"
       ],
       "featured": false,
-      "createdAt": "2026-07-15"
+      "createdAt": "2026-07-15",
+      "ratio": "4:5"
     },
     {
       "id": "tra8",
       "title": "Dubai Skyline",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/dubai,city?lock=158",
-      "prompt": "Luxury travel portrait with the Dubai skyline at dusk, warm ambient glow, elegant styling. Keep their face unchanged. Cinematic, 35mm, 9:16.",
+      "prompt": "Luxury travel portrait with the Dubai skyline at dusk, warm ambient glow, elegant styling. Keep their face unchanged. Cinematic, 35mm.",
       "tags": [
         "dubai",
         "luxury"
       ],
       "featured": false,
-      "createdAt": "2026-07-12"
+      "createdAt": "2026-07-12",
+      "ratio": "9:16"
     },
     {
       "id": "tra9",
       "title": "Maldives Overwater",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/maldives,beach?lock=159",
-      "prompt": "Bright travel portrait on a Maldives overwater deck, turquoise sea, sunny relaxed mood. Keep the uploaded face identical. Airy vivid grade, 28mm, 4:5.",
+      "prompt": "Bright travel portrait on a Maldives overwater deck, turquoise sea, sunny relaxed mood. Keep the uploaded face identical. Airy vivid grade, 28mm.",
       "tags": [
         "beach",
         "summer"
       ],
       "featured": false,
-      "createdAt": "2026-07-09"
+      "createdAt": "2026-07-09",
+      "ratio": "4:5"
     },
     {
       "id": "tra10",
       "title": "London Rain",
       "category": "travel",
       "image": "https://loremflickr.com/600/800/london,street?lock=160",
-      "prompt": "The person on a rainy London street with a red bus behind, umbrella, moody overcast light. Keep their identity exactly. Cinematic cool grade, 35mm, 9:16.",
+      "prompt": "The person on a rainy London street with a red bus behind, umbrella, moody overcast light. Keep their identity exactly. Cinematic cool grade, 35mm.",
       "tags": [
         "london",
         "moody"
       ],
       "featured": false,
-      "createdAt": "2026-07-06"
+      "createdAt": "2026-07-06",
+      "ratio": "9:16"
     },
     {
       "id": "ret1",
       "title": "90s Flash",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/portrait,vintage?lock=161",
-      "prompt": "Nostalgic 1990s disposable-camera portrait, harsh on-camera flash, slight overexposure, warm colour cast and grain. Keep the uploaded face unchanged. Date stamp in corner, 4:3.",
+      "prompt": "Nostalgic 1990s disposable-camera portrait, harsh on-camera flash, slight overexposure, warm colour cast and grain. Keep the uploaded face unchanged. Date stamp in corner.",
       "tags": [
         "90s",
         "film"
       ],
       "featured": false,
       "createdAt": "2026-08-01",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9161"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9161",
+      "ratio": "4:3"
     },
     {
       "id": "ret2",
       "title": "70s Vinyl",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/retro,warm?lock=162",
-      "prompt": "1970s retro portrait, warm sepia tones, wide-collar shirt, wood-panel backdrop, soft vintage glow. Keep the person's face identical. Grainy film stock, 4:3.",
+      "prompt": "1970s retro portrait, warm sepia tones, wide-collar shirt, wood-panel backdrop, soft vintage glow. Keep the person's face identical. Grainy film stock.",
       "tags": [
         "70s",
         "warm"
       ],
       "featured": false,
       "createdAt": "2026-07-29",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9162"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9162",
+      "ratio": "4:3"
     },
     {
       "id": "ret3",
       "title": "80s Synthwave",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/neon,retro?lock=163",
-      "prompt": "Bold 1980s synthwave portrait, magenta-and-cyan neon glow, grid horizon, retro styling. Keep the uploaded identity exactly. Vibrant nostalgic grade, 4:5.",
+      "prompt": "Bold 1980s synthwave portrait, magenta-and-cyan neon glow, grid horizon, retro styling. Keep the uploaded identity exactly. Vibrant nostalgic grade.",
       "tags": [
         "80s",
         "neon"
       ],
       "featured": true,
       "createdAt": "2026-07-26",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9163"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9163",
+      "ratio": "4:5"
     },
     {
       "id": "ret4",
       "title": "50s Hollywood",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/classic,blackandwhite?lock=164",
-      "prompt": "Classic 1950s Hollywood glamour portrait in black and white, soft glamour lighting, elegant styling. Keep the person's face unchanged. Timeless, 4:5.",
+      "prompt": "Classic 1950s Hollywood glamour portrait in black and white, soft glamour lighting, elegant styling. Keep the person's face unchanged. Timeless.",
       "tags": [
         "50s",
         "glamour"
       ],
       "featured": false,
-      "createdAt": "2026-07-23"
+      "createdAt": "2026-07-23",
+      "ratio": "4:5"
     },
     {
       "id": "ret5",
       "title": "60s Mod",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/retro,fashion?lock=165",
-      "prompt": "1960s mod-fashion portrait, bold graphic colours, playful styling, clean studio light. Keep the uploaded face identical. Pop retro tone, 4:5.",
+      "prompt": "1960s mod-fashion portrait, bold graphic colours, playful styling, clean studio light. Keep the uploaded face identical. Pop retro tone.",
       "tags": [
         "60s",
         "mod"
       ],
       "featured": false,
-      "createdAt": "2026-07-20"
+      "createdAt": "2026-07-20",
+      "ratio": "4:5"
     },
     {
       "id": "ret6",
       "title": "Old Bollywood",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/vintage,portrait?lock=166",
-      "prompt": "Vintage old-Bollywood-style portrait, warm filmic glow, dramatic classic lighting, rich saturated tones. Keep the person's identity exactly. Nostalgic, 4:5.",
+      "prompt": "Vintage old-Bollywood-style portrait, warm filmic glow, dramatic classic lighting, rich saturated tones. Keep the person's identity exactly. Nostalgic.",
       "tags": [
         "vintage",
         "filmi"
       ],
       "featured": false,
-      "createdAt": "2026-07-17"
+      "createdAt": "2026-07-17",
+      "ratio": "4:5"
     },
     {
       "id": "ret7",
       "title": "Faded Polaroid",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/polaroid,retro?lock=167",
-      "prompt": "Faded Polaroid-style portrait, soft washed colours, gentle vignette, instant-film imperfections. Keep the uploaded face unchanged. Cozy nostalgic, 1:1.",
+      "prompt": "Faded Polaroid-style portrait, soft washed colours, gentle vignette, instant-film imperfections. Keep the uploaded face unchanged. Cozy nostalgic.",
       "tags": [
         "polaroid",
         "cozy"
       ],
       "featured": false,
-      "createdAt": "2026-07-14"
+      "createdAt": "2026-07-14",
+      "ratio": "1:1"
     },
     {
       "id": "ret8",
       "title": "1920s Sepia",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/sepia,vintage?lock=168",
-      "prompt": "Antique 1920s sepia portrait, soft vignette, period styling, aged-paper texture. Keep the person's features identical. Historic tone, 4:5.",
+      "prompt": "Antique 1920s sepia portrait, soft vignette, period styling, aged-paper texture. Keep the person's features identical. Historic tone.",
       "tags": [
         "1920s",
         "sepia"
       ],
       "featured": false,
-      "createdAt": "2026-07-11"
+      "createdAt": "2026-07-11",
+      "ratio": "4:5"
     },
     {
       "id": "ret9",
       "title": "VHS Glitch",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/vhs,retro?lock=169",
-      "prompt": "Retro VHS-aesthetic portrait, scanlines and subtle glitch, saturated 80s colour, timestamp overlay. Keep the uploaded identity exactly. Nostalgic analog, 4:5.",
+      "prompt": "Retro VHS-aesthetic portrait, scanlines and subtle glitch, saturated 80s colour, timestamp overlay. Keep the uploaded identity exactly. Nostalgic analog.",
       "tags": [
         "vhs",
         "glitch"
       ],
       "featured": false,
-      "createdAt": "2026-07-08"
+      "createdAt": "2026-07-08",
+      "ratio": "4:5"
     },
     {
       "id": "ret10",
       "title": "Diner Americana",
       "category": "retro",
       "image": "https://loremflickr.com/600/800/diner,retro?lock=170",
-      "prompt": "1950s American diner portrait, chrome and neon, checkered floor, warm nostalgic light. Keep the person's face unchanged. Retro Americana, 4:5.",
+      "prompt": "1950s American diner portrait, chrome and neon, checkered floor, warm nostalgic light. Keep the person's face unchanged. Retro Americana.",
       "tags": [
         "diner",
         "americana"
       ],
       "featured": false,
-      "createdAt": "2026-07-05"
+      "createdAt": "2026-07-05",
+      "ratio": "4:5"
     },
     {
       "id": "bik1",
       "title": "Superbike Dusk",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,man?lock=171",
-      "prompt": "Dynamic portrait of the person leaning on a sport superbike on an open highway at dusk, helmet in hand, leather jacket, motion-blurred background. Keep the uploaded face exactly. Orange sky, low angle, 35mm, 9:16.",
+      "prompt": "Dynamic portrait of the person leaning on a sport superbike on an open highway at dusk, helmet in hand, leather jacket, motion-blurred background. Keep the uploaded face exactly. Orange sky, low angle, 35mm.",
       "tags": [
         "action",
         "dusk"
       ],
       "featured": true,
       "createdAt": "2026-07-31",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9171"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9171",
+      "ratio": "9:16"
     },
     {
       "id": "bik2",
       "title": "Cafe Racer",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,vintage?lock=172",
-      "prompt": "Stylish portrait beside a vintage cafe-racer motorcycle in a sunlit industrial alley, retro leather jacket, relaxed cool pose. Keep the person's face identical. Warm grade, 35mm, 9:16.",
+      "prompt": "Stylish portrait beside a vintage cafe-racer motorcycle in a sunlit industrial alley, retro leather jacket, relaxed cool pose. Keep the person's face identical. Warm grade, 35mm.",
       "tags": [
         "vintage",
         "moto"
       ],
       "featured": false,
       "createdAt": "2026-07-28",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9172"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9172",
+      "ratio": "9:16"
     },
     {
       "id": "bik3",
       "title": "Cruiser Desert Road",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,desert?lock=173",
-      "prompt": "The person on a cruiser bike on an open desert highway, warm dust and heat haze, wide horizon. Keep their identity unchanged. Cinematic Americana, 24mm, 9:16.",
+      "prompt": "The person on a cruiser bike on an open desert highway, warm dust and heat haze, wide horizon. Keep their identity unchanged. Cinematic Americana, 24mm.",
       "tags": [
         "desert",
         "americana"
       ],
       "featured": false,
       "createdAt": "2026-07-25",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9173"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9173",
+      "ratio": "9:16"
     },
     {
       "id": "bik4",
       "title": "Track Sportbike",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,track?lock=174",
-      "prompt": "The person in racing leathers kneeling by a sportbike on a track, dramatic side light, dynamic energy. Keep the uploaded face exactly. High-contrast, 35mm, 9:16.",
+      "prompt": "The person in racing leathers kneeling by a sportbike on a track, dramatic side light, dynamic energy. Keep the uploaded face exactly. High-contrast, 35mm.",
       "tags": [
         "track",
         "action"
       ],
       "featured": false,
-      "createdAt": "2026-07-22"
+      "createdAt": "2026-07-22",
+      "ratio": "9:16"
     },
     {
       "id": "bik5",
       "title": "Rider Portrait",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,leather?lock=175",
-      "prompt": "Close portrait of the person as a rider, leather jacket, helmet under arm, moody garage light, bike in soft focus. Keep their identity identical. 50mm, 4:5.",
+      "prompt": "Close portrait of the person as a rider, leather jacket, helmet under arm, moody garage light, bike in soft focus. Keep their identity identical. 50mm.",
       "tags": [
         "rider",
         "moody"
       ],
       "featured": false,
-      "createdAt": "2026-07-19"
+      "createdAt": "2026-07-19",
+      "ratio": "4:5"
     },
     {
       "id": "bik6",
       "title": "Neon Night Ride",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,neon,night?lock=176",
-      "prompt": "The person on a bike in a neon-lit night city, wet reflective road, glowing signage, cinematic energy. Keep the uploaded face unchanged. Neon grade, 35mm, 9:16.",
+      "prompt": "The person on a bike in a neon-lit night city, wet reflective road, glowing signage, cinematic energy. Keep the uploaded face unchanged. Neon grade, 35mm.",
       "tags": [
         "neon",
         "night"
       ],
       "featured": false,
-      "createdAt": "2026-07-16"
+      "createdAt": "2026-07-16",
+      "ratio": "9:16"
     },
     {
       "id": "bik7",
       "title": "Adventure Mountain",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,mountain?lock=177",
-      "prompt": "The person with an adventure bike on a mountain switchback, dramatic landscape, cool crisp light, rugged gear. Keep their face exactly. Epic wide, 24mm, 9:16.",
+      "prompt": "The person with an adventure bike on a mountain switchback, dramatic landscape, cool crisp light, rugged gear. Keep their face exactly. Epic wide, 24mm.",
       "tags": [
         "adventure",
         "epic"
       ],
       "featured": false,
-      "createdAt": "2026-07-13"
+      "createdAt": "2026-07-13",
+      "ratio": "9:16"
     },
     {
       "id": "bik8",
       "title": "Classic Retro Ride",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,classic?lock=178",
-      "prompt": "The person with a classic retro motorcycle on an old-town street, warm golden light, timeless styling. Keep the uploaded identity identical. Film tone, 35mm, 4:5.",
+      "prompt": "The person with a classic retro motorcycle on an old-town street, warm golden light, timeless styling. Keep the uploaded identity identical. Film tone, 35mm.",
       "tags": [
         "classic",
         "warm"
       ],
       "featured": false,
-      "createdAt": "2026-07-10"
+      "createdAt": "2026-07-10",
+      "ratio": "4:5"
     },
     {
       "id": "bik9",
       "title": "Chopper Americana",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,chopper?lock=179",
-      "prompt": "The person on a chopper on a long American highway, sunset flare, denim-and-leather look, freedom mood. Keep their face unchanged. Cinematic, 35mm, 9:16.",
+      "prompt": "The person on a chopper on a long American highway, sunset flare, denim-and-leather look, freedom mood. Keep their face unchanged. Cinematic, 35mm.",
       "tags": [
         "chopper",
         "freedom"
       ],
       "featured": false,
-      "createdAt": "2026-07-07"
+      "createdAt": "2026-07-07",
+      "ratio": "9:16"
     },
     {
       "id": "bik10",
       "title": "Rain Ride Drama",
       "category": "bike",
       "image": "https://loremflickr.com/600/800/motorcycle,rain?lock=180",
-      "prompt": "Dramatic portrait of the person and bike on a rain-soaked road at night, headlight glare, splashing water, moody energy. Keep the uploaded face exactly. Cinematic, 35mm, 9:16.",
+      "prompt": "Dramatic portrait of the person and bike on a rain-soaked road at night, headlight glare, splashing water, moody energy. Keep the uploaded face exactly. Cinematic, 35mm.",
       "tags": [
         "rain",
         "dramatic"
       ],
       "featured": false,
-      "createdAt": "2026-07-04"
+      "createdAt": "2026-07-04",
+      "ratio": "9:16"
     },
     {
       "id": "pro1",
       "title": "Minimal DP",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/portrait,face?lock=181",
-      "prompt": "Clean minimal profile-picture headshot on a soft pastel gradient, gentle wraparound light, natural smile, sharp eyes. Keep the uploaded face identical. Centered, 85mm, 1:1.",
+      "prompt": "Clean minimal profile-picture headshot on a soft pastel gradient, gentle wraparound light, natural smile, sharp eyes. Keep the uploaded face identical. Centered, 85mm.",
       "tags": [
         "dp",
         "clean"
       ],
       "featured": false,
       "createdAt": "2026-07-30",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9181"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9181",
+      "ratio": "1:1"
     },
     {
       "id": "pro2",
       "title": "Corporate LinkedIn",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/professional,portrait?lock=182",
-      "prompt": "Professional corporate headshot on a neutral soft-grey backdrop, business attire, approachable confident expression, even flattering light. Keep the person's face exactly. Crisp, 85mm, 1:1.",
+      "prompt": "Professional corporate headshot on a neutral soft-grey backdrop, business attire, approachable confident expression, even flattering light. Keep the person's face exactly. Crisp, 85mm.",
       "tags": [
         "professional",
         "headshot"
       ],
       "featured": false,
       "createdAt": "2026-07-27",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9182"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9182",
+      "ratio": "1:1"
     },
     {
       "id": "pro3",
       "title": "Gradient Avatar",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/studio,portrait?lock=183",
-      "prompt": "Modern profile avatar on a smooth colour-gradient backdrop, soft even light, clean styling, friendly expression. Keep the uploaded identity unchanged. 85mm, 1:1.",
+      "prompt": "Modern profile avatar on a smooth colour-gradient backdrop, soft even light, clean styling, friendly expression. Keep the uploaded identity unchanged. 85mm.",
       "tags": [
         "avatar",
         "modern"
       ],
       "featured": false,
       "createdAt": "2026-07-24",
-      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9183"
+      "beforeImage": "https://loremflickr.com/600/800/selfie,face,portrait?lock=9183",
+      "ratio": "1:1"
     },
     {
       "id": "pro4",
       "title": "Outdoor Smile",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/casual,outdoor?lock=184",
-      "prompt": "Casual outdoor profile photo, soft natural daylight, relaxed genuine smile, gentle background blur. Keep the person's face identical. 50mm, 1:1.",
+      "prompt": "Casual outdoor profile photo, soft natural daylight, relaxed genuine smile, gentle background blur. Keep the person's face identical. 50mm.",
       "tags": [
         "casual",
         "natural"
       ],
       "featured": false,
-      "createdAt": "2026-07-21"
+      "createdAt": "2026-07-21",
+      "ratio": "1:1"
     },
     {
       "id": "pro5",
       "title": "Classy Black & White",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/blackandwhite,profile?lock=185",
-      "prompt": "Classy black-and-white profile headshot, soft directional light, timeless and confident. Keep the uploaded face exactly. Elegant, 85mm, 1:1.",
+      "prompt": "Classy black-and-white profile headshot, soft directional light, timeless and confident. Keep the uploaded face exactly. Elegant, 85mm.",
       "tags": [
         "bw",
         "classy"
       ],
       "featured": false,
-      "createdAt": "2026-07-18"
+      "createdAt": "2026-07-18",
+      "ratio": "1:1"
     },
     {
       "id": "pro6",
       "title": "Pop-Art Colour",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/popart,portrait?lock=186",
-      "prompt": "Fun pop-art profile portrait, bold flat colours, graphic styling, playful energy. Keep the person's identity unchanged. Vibrant, 1:1.",
+      "prompt": "Fun pop-art profile portrait, bold flat colours, graphic styling, playful energy. Keep the person's identity unchanged. Vibrant.",
       "tags": [
         "popart",
         "fun"
       ],
       "featured": false,
-      "createdAt": "2026-07-15"
+      "createdAt": "2026-07-15",
+      "ratio": "1:1"
     },
     {
       "id": "pro7",
       "title": "Neon Gaming Avatar",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/neon,portrait?lock=187",
-      "prompt": "Gaming-style profile avatar with neon rim lighting, dark backdrop, cool edgy mood. Keep the uploaded face identical. Vibrant neon, 1:1.",
+      "prompt": "Gaming-style profile avatar with neon rim lighting, dark backdrop, cool edgy mood. Keep the uploaded face identical. Vibrant neon.",
       "tags": [
         "gaming",
         "neon"
       ],
       "featured": false,
-      "createdAt": "2026-07-12"
+      "createdAt": "2026-07-12",
+      "ratio": "1:1"
     },
     {
       "id": "pro8",
       "title": "Creative Professional",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/creative,portrait?lock=188",
-      "prompt": "Creative professional headshot, soft studio light, modern casual-smart styling, warm approachable tone. Keep the person's face exactly. 85mm, 1:1.",
+      "prompt": "Creative professional headshot, soft studio light, modern casual-smart styling, warm approachable tone. Keep the person's face exactly. 85mm.",
       "tags": [
         "creative",
         "warm"
       ],
       "featured": false,
-      "createdAt": "2026-07-09"
+      "createdAt": "2026-07-09",
+      "ratio": "1:1"
     },
     {
       "id": "pro9",
       "title": "Elegant Formal",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/formal,portrait?lock=189",
-      "prompt": "Elegant formal profile portrait, refined styling, soft flattering key, subtle dark backdrop. Keep the uploaded identity unchanged. 85mm, 1:1.",
+      "prompt": "Elegant formal profile portrait, refined styling, soft flattering key, subtle dark backdrop. Keep the uploaded identity unchanged. 85mm.",
       "tags": [
         "formal",
         "elegant"
       ],
       "featured": false,
-      "createdAt": "2026-07-06"
+      "createdAt": "2026-07-06",
+      "ratio": "1:1"
     },
     {
       "id": "pro10",
       "title": "Candid Lifestyle",
       "category": "profile",
       "image": "https://loremflickr.com/600/800/lifestyle,candid?lock=190",
-      "prompt": "Fun candid lifestyle profile photo, bright natural light, laughing expression, airy background. Keep the person's face identical. 35mm, 1:1.",
+      "prompt": "Fun candid lifestyle profile photo, bright natural light, laughing expression, airy background. Keep the person's face identical. 35mm.",
       "tags": [
         "lifestyle",
         "candid"
       ],
       "featured": false,
-      "createdAt": "2026-07-03"
+      "createdAt": "2026-07-03",
+      "ratio": "1:1"
     }
   ]
 }

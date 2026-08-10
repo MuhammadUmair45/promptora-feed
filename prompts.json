@@ -53,7 +53,7 @@
       "id": "cin1",
       "title": "Neon Rain Mirror",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/neon,portrait?lock=101",
+      "image": "https://bsmsites.com/promptora_ai_images/cin1.png",
       "prompt": "Ultra-realistic cinematic portrait of the person from the uploaded photo standing before a mirror framed by vertical white light strips. Wet glass with teal and magenta neon reflections, moody rain atmosphere, shallow depth of field. Keep their face and identity exactly the same. 85mm, film grain.",
       "tags": [
         "neon",
@@ -68,7 +68,7 @@
       "id": "cin2",
       "title": "Foggy Forest Dawn",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/forest,portrait?lock=102",
+      "image": "https://bsmsites.com/promptora_ai_images/cin2.png",
       "prompt": "Atmospheric cinematic portrait in a misty pine forest at dawn, volumetric god-rays through fog, backlit rim on hair and shoulders. Long wool coat, breath visible in cold air. Keep the uploaded face unchanged. Muted green film grade, 85mm.",
       "tags": [
         "moody",
@@ -83,7 +83,7 @@
       "id": "cin3",
       "title": "Headlights at Night",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/night,portrait?lock=103",
+      "image": "https://bsmsites.com/promptora_ai_images/cin3.png",
       "prompt": "Cinematic night portrait lit only by warm car headlights on an empty road, dramatic contrast, soft lens flare, deep shadows. Keep the person's face exactly the same. Teal-and-orange grade, movie-still mood, 50mm.",
       "tags": [
         "night",
@@ -98,7 +98,7 @@
       "id": "cin4",
       "title": "Rooftop City Glow",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/rooftop,city,night?lock=104",
+      "image": "https://bsmsites.com/promptora_ai_images/cin4.png",
       "prompt": "The person on a rooftop at blue hour, glittering city skyline bokeh behind, cool ambient light with a warm key on the face, stylish coat. Keep their identity identical. Cinematic teal-orange grade, 35mm.",
       "tags": [
         "city",
@@ -112,7 +112,7 @@
       "id": "cin5",
       "title": "Rain Window Reflection",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/rain,window?lock=105",
+      "image": "https://bsmsites.com/promptora_ai_images/cin5.png",
       "prompt": "Moody cinematic portrait beside a rain-streaked window, droplets casting soft shadows across the face, pensive gaze. Keep the uploaded face exactly. Desaturated cool palette, quiet film mood, 50mm.",
       "tags": [
         "rain",
@@ -126,7 +126,7 @@
       "id": "cin6",
       "title": "Spotlight in the Dark",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/studio,dramatic?lock=106",
+      "image": "https://bsmsites.com/promptora_ai_images/cin6.png",
       "prompt": "The person in a dark warehouse under a single hard spotlight, strong chiaroscuro, smoke in the air catching the beam. Keep their face and features unchanged. High-contrast grade, 85mm.",
       "tags": [
         "dramatic",
@@ -140,7 +140,7 @@
       "id": "cin7",
       "title": "Sun Rays Through Blinds",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/portrait,shadow?lock=107",
+      "image": "https://bsmsites.com/promptora_ai_images/cin7.png",
       "prompt": "Cinematic portrait with warm sunlight slicing through window blinds, striped light-and-shadow across the face, dust floating in the beams. Keep the uploaded identity exactly. Golden film tone, 50mm.",
       "tags": [
         "golden",
@@ -154,7 +154,7 @@
       "id": "cin8",
       "title": "Neon Alley",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/neon,city?lock=108",
+      "image": "https://bsmsites.com/promptora_ai_images/cin8.png",
       "prompt": "The person in a rain-slick neon alley at night, pink and cyan signage glowing, cyberpunk atmosphere, reflective puddles. Keep their face identical. Cinematic sci-fi grade, 35mm.",
       "tags": [
         "neon",
@@ -168,7 +168,7 @@
       "id": "cin9",
       "title": "Candlelit Chiaroscuro",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/candle,portrait?lock=109",
+      "image": "https://bsmsites.com/promptora_ai_images/cin9.png",
       "prompt": "Intimate candlelit portrait, warm flickering glow sculpting the face out of deep shadow, Old-Master painterly mood. Keep the uploaded face exactly. Rich amber tones, 85mm.",
       "tags": [
         "warm",
@@ -182,7 +182,7 @@
       "id": "cin10",
       "title": "Storm Wind Epic",
       "category": "cinematic",
-      "image": "https://loremflickr.com/600/800/storm,dramatic?lock=110",
+      "image": "https://bsmsites.com/promptora_ai_images/cin10.png",
       "prompt": "Dramatic cinematic portrait against dark storm clouds, wind whipping hair and clothing, moody diffused light before rain. Keep the person's identity unchanged. Desaturated epic grade, 35mm.",
       "tags": [
         "epic",
@@ -196,7 +196,7 @@
       "id": "por1",
       "title": "Soft Beauty Studio",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/beauty,studio?lock=111",
+      "image": "https://bsmsites.com/promptora_ai_images/por1.png",
       "prompt": "Clean beauty portrait on a soft neutral backdrop, large softbox wraparound light, flawless natural skin, catchlights in the eyes. Keep the uploaded face exactly the same. 100mm, crisp and flattering.",
       "tags": [
         "beauty",
@@ -211,7 +211,7 @@
       "id": "por2",
       "title": "Fine-Art Black & White",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/blackandwhite,portrait?lock=112",
+      "image": "https://bsmsites.com/promptora_ai_images/por2.png",
       "prompt": "Timeless black-and-white fine-art portrait, gentle directional light, rich tonal range, subtle film grain. Keep the person's features identical. Elegant and quiet, 85mm.",
       "tags": [
         "bw",
@@ -226,7 +226,7 @@
       "id": "por3",
       "title": "Rembrandt Light",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/portrait,studio?lock=113",
+      "image": "https://bsmsites.com/promptora_ai_images/por3.png",
       "prompt": "Classic Rembrandt-lit portrait, the signature triangle of light on the cheek, deep controlled shadows, dark backdrop. Keep the uploaded identity exactly. Painterly, 85mm.",
       "tags": [
         "classic",
@@ -241,7 +241,7 @@
       "id": "por4",
       "title": "Natural Window Light",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/window,natural?lock=114",
+      "image": "https://bsmsites.com/promptora_ai_images/por4.png",
       "prompt": "Minimal portrait by a large window, soft daylight from one side, calm neutral wardrobe, gentle falloff into shadow. Keep the face unchanged. Honest and natural, 50mm.",
       "tags": [
         "natural",
@@ -255,7 +255,7 @@
       "id": "por5",
       "title": "Editorial Colour Gel",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/fashion,neon?lock=115",
+      "image": "https://bsmsites.com/promptora_ai_images/por5.png",
       "prompt": "High-fashion editorial portrait with bold coloured gel lighting in magenta and blue, confident pose, glossy magazine finish. Keep the person's face exactly. 85mm, striking.",
       "tags": [
         "fashion",
@@ -269,7 +269,7 @@
       "id": "por6",
       "title": "Golden Hour Outdoor",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/golden,portrait?lock=116",
+      "image": "https://bsmsites.com/promptora_ai_images/por6.png",
       "prompt": "Warm outdoor portrait at golden hour, sun flare behind, soft haze, earthy tones, relaxed natural expression. Keep the uploaded face identical. 35mm, dreamy.",
       "tags": [
         "golden",
@@ -283,7 +283,7 @@
       "id": "por7",
       "title": "Split Lighting",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/dramatic,portrait?lock=117",
+      "image": "https://bsmsites.com/promptora_ai_images/por7.png",
       "prompt": "Dramatic split-lit portrait, half the face in light and half in shadow, bold and graphic, dark background. Keep their identity unchanged. High-contrast, 85mm.",
       "tags": [
         "dramatic",
@@ -297,7 +297,7 @@
       "id": "por8",
       "title": "Pastel Backdrop",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/pastel,studio?lock=118",
+      "image": "https://bsmsites.com/promptora_ai_images/por8.png",
       "prompt": "Gentle portrait on a pastel backdrop, even soft light, minimal styling, fresh and modern. Keep the uploaded face exactly. Clean colour, 85mm.",
       "tags": [
         "pastel",
@@ -311,7 +311,7 @@
       "id": "por9",
       "title": "Skin-Texture Close-Up",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/closeup,portrait?lock=119",
+      "image": "https://bsmsites.com/promptora_ai_images/por9.png",
       "prompt": "Detailed close-up portrait showing real skin texture and freckles, soft directional light, shallow focus on the eyes. Keep the person's features identical. 100mm macro feel.",
       "tags": [
         "closeup",
@@ -325,7 +325,7 @@
       "id": "por10",
       "title": "Low-Key Moody",
       "category": "portrait",
-      "image": "https://loremflickr.com/600/800/lowkey,portrait?lock=120",
+      "image": "https://bsmsites.com/promptora_ai_images/por10.png",
       "prompt": "Low-key moody headshot emerging from near-black, single soft rim light, thoughtful expression. Keep the uploaded identity exactly. Cinematic and restrained, 85mm.",
       "tags": [
         "moody",
@@ -339,7 +339,7 @@
       "id": "cou1",
       "title": "Rainy Umbrella",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,rain?lock=121",
+      "image": "https://bsmsites.com/promptora_ai_images/cou1.png",
       "prompt": "Romantic cinematic shot of the couple from the uploaded photos sharing an umbrella on a rainy night street, warm shop-light bokeh, reflections on wet pavement. Keep both faces exactly the same. Teal-orange film grade, 50mm.",
       "tags": [
         "romantic",
@@ -354,7 +354,7 @@
       "id": "cou2",
       "title": "Cafe Window Laugh",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,cafe?lock=122",
+      "image": "https://bsmsites.com/promptora_ai_images/cou2.png",
       "prompt": "Candid film-style portrait of the couple laughing by a sunlit cafe window, coffee cups, soft morning light and lace-curtain shadows. Keep both uploaded faces identical. Warm natural tones, 35mm.",
       "tags": [
         "candid",
@@ -369,7 +369,7 @@
       "id": "cou3",
       "title": "Beach Sunset Silhouette",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,beach,sunset?lock=123",
+      "image": "https://bsmsites.com/promptora_ai_images/cou3.png",
       "prompt": "The couple on a beach at sunset, warm backlight and lens flare, gentle silhouette, waves behind. Keep both identities exactly. Golden cinematic grade, 35mm.",
       "tags": [
         "beach",
@@ -384,7 +384,7 @@
       "id": "cou4",
       "title": "Autumn Park Walk",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,autumn?lock=124",
+      "image": "https://bsmsites.com/promptora_ai_images/cou4.png",
       "prompt": "The couple walking through an autumn park, falling leaves, warm amber light, cozy knitwear. Keep both faces unchanged. Soft film tone, 50mm.",
       "tags": [
         "autumn",
@@ -398,7 +398,7 @@
       "id": "cou5",
       "title": "Rooftop Night",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,city,night?lock=125",
+      "image": "https://bsmsites.com/promptora_ai_images/cou5.png",
       "prompt": "The couple on a city rooftop at night, skyline bokeh, string lights overhead, intimate warm key light. Keep both uploaded faces identical. Cinematic, 35mm.",
       "tags": [
         "city",
@@ -412,7 +412,7 @@
       "id": "cou6",
       "title": "Home Fairy Lights",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,cozy?lock=126",
+      "image": "https://bsmsites.com/promptora_ai_images/cou6.png",
       "prompt": "Cozy indoor portrait of the couple among warm fairy lights and blankets, soft golden glow, tender mood. Keep both identities exactly. 50mm, dreamy bokeh.",
       "tags": [
         "cozy",
@@ -426,7 +426,7 @@
       "id": "cou7",
       "title": "Traditional Wedding",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,wedding?lock=127",
+      "image": "https://bsmsites.com/promptora_ai_images/cou7.png",
       "prompt": "Elegant portrait of the couple in richly detailed traditional wedding attire, ornate setting, warm ceremonial light. Keep both uploaded faces the same. Rich jewel tones, 50mm.",
       "tags": [
         "wedding",
@@ -440,7 +440,7 @@
       "id": "cou8",
       "title": "Dancing in Lights",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,dance?lock=128",
+      "image": "https://bsmsites.com/promptora_ai_images/cou8.png",
       "prompt": "The couple dancing under warm string lights at dusk, gentle motion, joyful connection, soft bokeh. Keep both faces identical. Cinematic warm grade, 35mm.",
       "tags": [
         "dance",
@@ -454,7 +454,7 @@
       "id": "cou9",
       "title": "Snowy Embrace",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,snow?lock=129",
+      "image": "https://bsmsites.com/promptora_ai_images/cou9.png",
       "prompt": "The couple embracing in gentle snowfall, cozy winter coats, soft cool light with warm cheeks, flakes catching the light. Keep both identities exactly. 50mm.",
       "tags": [
         "snow",
@@ -468,7 +468,7 @@
       "id": "cou10",
       "title": "Golden Field",
       "category": "couple",
-      "image": "https://loremflickr.com/600/800/couple,field,golden?lock=130",
+      "image": "https://bsmsites.com/promptora_ai_images/cou10.png",
       "prompt": "The couple in a golden wheat field at sunset, warm haze, relaxed candid closeness, wind in the grass. Keep both uploaded faces unchanged. Cinematic golden grade, 35mm.",
       "tags": [
         "golden",
@@ -482,7 +482,7 @@
       "id": "men1",
       "title": "Studio Power",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,studio?lock=131",
+      "image": "https://bsmsites.com/promptora_ai_images/men1.png",
       "prompt": "Bold high-contrast studio portrait of the man from the uploaded photo against deep charcoal, dramatic side key, tailored black blazer. Keep his face and features unchanged. Ultra-sharp magazine-cover look, 100mm.",
       "tags": [
         "studio",
@@ -497,7 +497,7 @@
       "id": "men2",
       "title": "Old-Money Library",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,library?lock=132",
+      "image": "https://bsmsites.com/promptora_ai_images/men2.png",
       "prompt": "Refined portrait of the man in a warm-lit vintage library, tweed blazer, leather chair, shelves of old books. Keep his identity exactly. Amber tungsten light, 50mm.",
       "tags": [
         "classic",
@@ -512,7 +512,7 @@
       "id": "men3",
       "title": "Urban Street Style",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,street?lock=133",
+      "image": "https://bsmsites.com/promptora_ai_images/men3.png",
       "prompt": "The man in modern street style on a city street, overcast soft light, confident stride, muted urban palette. Keep his face identical. Editorial, 35mm.",
       "tags": [
         "street",
@@ -527,7 +527,7 @@
       "id": "men4",
       "title": "Businessman Rooftop",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,business,city?lock=134",
+      "image": "https://bsmsites.com/promptora_ai_images/men4.png",
       "prompt": "The man in a sharp suit on a rooftop, skyline behind, blue-hour ambient with a warm key, powerful composed pose. Keep his identity unchanged. Cinematic, 35mm.",
       "tags": [
         "business",
@@ -541,7 +541,7 @@
       "id": "men5",
       "title": "Rugged Mountain",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,mountain?lock=135",
+      "image": "https://bsmsites.com/promptora_ai_images/men5.png",
       "prompt": "Rugged outdoor portrait of the man on a windswept mountain ridge, natural cool light, textured jacket, adventurous mood. Keep his face exactly. Epic wide, 35mm.",
       "tags": [
         "outdoor",
@@ -555,7 +555,7 @@
       "id": "men6",
       "title": "Black-Tie Classic",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,suit,formal?lock=136",
+      "image": "https://bsmsites.com/promptora_ai_images/men6.png",
       "prompt": "Classic black-tie portrait of the man in a tuxedo, elegant dark backdrop, soft cinematic key, timeless and sharp. Keep his uploaded identity the same. 85mm.",
       "tags": [
         "formal",
@@ -569,7 +569,7 @@
       "id": "men7",
       "title": "Athletic Gym",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,gym,fitness?lock=137",
+      "image": "https://bsmsites.com/promptora_ai_images/men7.png",
       "prompt": "Dynamic gym portrait of the man, dramatic low light, defined form, sweat-lit highlights, intense focus. Keep his face unchanged. High-contrast, 50mm.",
       "tags": [
         "fitness",
@@ -583,7 +583,7 @@
       "id": "men8",
       "title": "Vintage Barbershop",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,barbershop?lock=138",
+      "image": "https://bsmsites.com/promptora_ai_images/men8.png",
       "prompt": "The man in a classic vintage barbershop, warm ambient light, crisp styling, retro tiled backdrop. Keep his identity exactly. Film tone, 35mm.",
       "tags": [
         "retro",
@@ -597,7 +597,7 @@
       "id": "men9",
       "title": "Beach Linen",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,beach,linen?lock=139",
+      "image": "https://bsmsites.com/promptora_ai_images/men9.png",
       "prompt": "Relaxed portrait of the man in light linen on a bright beach, warm sun, breezy natural mood, soft flare. Keep his uploaded face identical. 35mm, airy.",
       "tags": [
         "beach",
@@ -611,7 +611,7 @@
       "id": "men10",
       "title": "Leather Moody",
       "category": "men",
-      "image": "https://loremflickr.com/600/800/man,leather?lock=140",
+      "image": "https://bsmsites.com/promptora_ai_images/men10.png",
       "prompt": "Moody portrait of the man in a leather jacket against a dark textured wall, single hard light, cool confident edge. Keep his features unchanged. Cinematic, 85mm.",
       "tags": [
         "moody",
@@ -625,7 +625,7 @@
       "id": "wom1",
       "title": "Golden Rooftop",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,rooftop,sunset?lock=141",
+      "image": "https://bsmsites.com/promptora_ai_images/wom1.png",
       "prompt": "Editorial portrait of the woman from the uploaded photo on a rooftop at golden hour, warm backlight in the hair, flowing cream trench coat, soft flare. Keep her face identical. Cinematic, 35mm.",
       "tags": [
         "golden",
@@ -640,7 +640,7 @@
       "id": "wom2",
       "title": "Saree Palace",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,saree?lock=142",
+      "image": "https://bsmsites.com/promptora_ai_images/wom2.png",
       "prompt": "Elegant portrait of the woman in a richly embroidered silk saree inside a marble palace hall, chandelier light, regal posture. Keep her uploaded face the same. Rich jewel tones, 50mm.",
       "tags": [
         "ethnic",
@@ -655,7 +655,7 @@
       "id": "wom3",
       "title": "Rain Window",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,window,rain?lock=143",
+      "image": "https://bsmsites.com/promptora_ai_images/wom3.png",
       "prompt": "Intimate portrait of the woman by a rain-streaked window, soft daylight, contemplative gaze. Keep her identity exactly. Cool desaturated palette, 50mm.",
       "tags": [
         "moody",
@@ -670,7 +670,7 @@
       "id": "wom4",
       "title": "Floral Garden",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,floral,garden?lock=144",
+      "image": "https://bsmsites.com/promptora_ai_images/wom4.png",
       "prompt": "The woman in a floral dress in a blooming garden, soft daylight, fresh natural colours, gentle smile. Keep her face unchanged. Dreamy, 35mm.",
       "tags": [
         "floral",
@@ -684,7 +684,7 @@
       "id": "wom5",
       "title": "Evening Gown",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,gown,elegant?lock=145",
+      "image": "https://bsmsites.com/promptora_ai_images/wom5.png",
       "prompt": "Glamorous portrait of the woman in an elegant evening gown, dramatic soft key light, luxurious dark backdrop. Keep her uploaded identity the same. Editorial, 85mm.",
       "tags": [
         "glam",
@@ -698,7 +698,7 @@
       "id": "wom6",
       "title": "Boho Desert",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,desert,boho?lock=146",
+      "image": "https://bsmsites.com/promptora_ai_images/wom6.png",
       "prompt": "The woman in flowing boho attire on golden desert dunes at sunset, warm wind, earthy tones. Keep her face identical. Cinematic golden grade, 35mm.",
       "tags": [
         "boho",
@@ -712,7 +712,7 @@
       "id": "wom7",
       "title": "Cozy Coffee Shop",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,cafe?lock=147",
+      "image": "https://bsmsites.com/promptora_ai_images/wom7.png",
       "prompt": "Candid portrait of the woman in a cozy coffee shop, warm window light, relaxed genuine expression, soft bokeh. Keep her identity exactly. 50mm.",
       "tags": [
         "cozy",
@@ -726,7 +726,7 @@
       "id": "wom8",
       "title": "Red-Carpet Glam",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,glam?lock=148",
+      "image": "https://bsmsites.com/promptora_ai_images/wom8.png",
       "prompt": "Red-carpet glam portrait of the woman, polished styling, flattering key light, confident pose, subtle sparkle. Keep her uploaded face the same. 85mm.",
       "tags": [
         "glam",
@@ -740,7 +740,7 @@
       "id": "wom9",
       "title": "Minimal Beauty",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,beauty,studio?lock=149",
+      "image": "https://bsmsites.com/promptora_ai_images/wom9.png",
       "prompt": "Minimal beauty portrait of the woman on a soft neutral backdrop, clean wraparound light, natural glowing skin. Keep her features unchanged. 100mm.",
       "tags": [
         "beauty",
@@ -754,7 +754,7 @@
       "id": "wom10",
       "title": "Cultural Attire",
       "category": "women",
-      "image": "https://loremflickr.com/600/800/woman,traditional?lock=150",
+      "image": "https://bsmsites.com/promptora_ai_images/wom10.png",
       "prompt": "Portrait of the woman in beautifully detailed traditional cultural attire, warm respectful light, ornate setting. Keep her uploaded identity exactly. Rich tones, 50mm.",
       "tags": [
         "ethnic",
@@ -768,7 +768,7 @@
       "id": "tra1",
       "title": "Santorini Steps",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/santorini,woman?lock=151",
+      "image": "https://bsmsites.com/promptora_ai_images/tra1.png",
       "prompt": "Travel portrait of the person on the iconic blue-domed steps of Santorini at midday, flowing white outfit, Aegean sea behind. Keep the uploaded face exactly. Crisp Mediterranean light, 28mm.",
       "tags": [
         "travel",
@@ -783,7 +783,7 @@
       "id": "tra2",
       "title": "Desert Dunes",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/desert,person?lock=152",
+      "image": "https://bsmsites.com/promptora_ai_images/tra2.png",
       "prompt": "The person atop golden sand dunes at sunset, long shadows, flowing scarf caught in the wind. Keep their identity unchanged. Warm amber wide shot, 24mm.",
       "tags": [
         "desert",
@@ -798,7 +798,7 @@
       "id": "tra3",
       "title": "Paris Cafe",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/paris,eiffel?lock=153",
+      "image": "https://bsmsites.com/promptora_ai_images/tra3.png",
       "prompt": "Chic travel portrait at a Parisian street cafe with the Eiffel Tower in soft focus behind, warm afternoon light, stylish outfit. Keep the uploaded face identical. 35mm.",
       "tags": [
         "paris",
@@ -813,7 +813,7 @@
       "id": "tra4",
       "title": "Tokyo Neon",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/tokyo,neon?lock=154",
+      "image": "https://bsmsites.com/promptora_ai_images/tra4.png",
       "prompt": "The person in a vibrant Tokyo street at night, glowing neon signage, energetic city bokeh. Keep their identity exactly. Cinematic neon grade, 35mm.",
       "tags": [
         "tokyo",
@@ -827,7 +827,7 @@
       "id": "tra5",
       "title": "Venice Canal",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/venice,canal?lock=155",
+      "image": "https://bsmsites.com/promptora_ai_images/tra5.png",
       "prompt": "Travel portrait by a Venice canal, gondola and pastel buildings behind, warm golden light. Keep the uploaded face unchanged. Romantic tone, 35mm.",
       "tags": [
         "venice",
@@ -841,7 +841,7 @@
       "id": "tra6",
       "title": "Swiss Alps",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/alps,snow?lock=156",
+      "image": "https://bsmsites.com/promptora_ai_images/tra6.png",
       "prompt": "The person on a snowy Swiss alpine viewpoint, crisp cool light, dramatic peaks behind, cozy winter wear. Keep their face identical. Epic wide, 24mm.",
       "tags": [
         "snow",
@@ -855,7 +855,7 @@
       "id": "tra7",
       "title": "Bali Rice Terraces",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/bali,rice?lock=157",
+      "image": "https://bsmsites.com/promptora_ai_images/tra7.png",
       "prompt": "Travel portrait among lush green Bali rice terraces, soft tropical light, relaxed summer outfit. Keep the uploaded identity exactly. Vivid greens, 35mm.",
       "tags": [
         "bali",
@@ -869,7 +869,7 @@
       "id": "tra8",
       "title": "Dubai Skyline",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/dubai,city?lock=158",
+      "image": "https://bsmsites.com/promptora_ai_images/tra8.png",
       "prompt": "Luxury travel portrait with the Dubai skyline at dusk, warm ambient glow, elegant styling. Keep their face unchanged. Cinematic, 35mm.",
       "tags": [
         "dubai",
@@ -883,7 +883,7 @@
       "id": "tra9",
       "title": "Maldives Overwater",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/maldives,beach?lock=159",
+      "image": "https://bsmsites.com/promptora_ai_images/tra9.png",
       "prompt": "Bright travel portrait on a Maldives overwater deck, turquoise sea, sunny relaxed mood. Keep the uploaded face identical. Airy vivid grade, 28mm.",
       "tags": [
         "beach",
@@ -897,7 +897,7 @@
       "id": "tra10",
       "title": "London Rain",
       "category": "travel",
-      "image": "https://loremflickr.com/600/800/london,street?lock=160",
+      "image": "https://bsmsites.com/promptora_ai_images/tra10.png",
       "prompt": "The person on a rainy London street with a red bus behind, umbrella, moody overcast light. Keep their identity exactly. Cinematic cool grade, 35mm.",
       "tags": [
         "london",
@@ -911,7 +911,7 @@
       "id": "ret1",
       "title": "90s Flash",
       "category": "retro",
-      "image": "https://loremflickr.com/600/800/portrait,vintage?lock=161",
+      "image": "https://bsmsites.com/promptora_ai_images/ret1.png",
       "prompt": "Nostalgic 1990s disposable-camera portrait, harsh on-camera flash, slight overexposure, warm colour cast and grain. Keep the uploaded face unchanged. Date stamp in corner.",
       "tags": [
         "90s",
@@ -926,7 +926,7 @@
       "id": "ret2",
       "title": "70s Vinyl",
       "category": "retro",
-      "image": "https://loremflickr.com/600/800/retro,warm?lock=162",
+      "image": "https://bsmsites.com/promptora_ai_images/ret2.png",
       "prompt": "1970s retro portrait, warm sepia tones, wide-collar shirt, wood-panel backdrop, soft vintage glow. Keep the person's face identical. Grainy film stock.",
       "tags": [
         "70s",
@@ -941,7 +941,7 @@
       "id": "ret3",
       "title": "80s Synthwave",
       "category": "retro",
-      "image": "https://loremflickr.com/600/800/neon,retro?lock=163",
+      "image": "https://bsmsites.com/promptora_ai_images/ret3.png",
       "prompt": "Bold 1980s synthwave portrait, magenta-and-cyan neon glow, grid horizon, retro styling. Keep the uploaded identity exactly. Vibrant nostalgic grade.",
       "tags": [
         "80s",
@@ -956,7 +956,7 @@
       "id": "ret4",
       "title": "50s Hollywood",
       "category": "retro",
-      "image": "https://loremflickr.com/600/800/classic,blackandwhite?lock=164",
+      "image": "https://bsmsites.com/promptora_ai_images/ret4.png",
       "prompt": "Classic 1950s Hollywood glamour portrait in black and white, soft glamour lighting, elegant styling. Keep the person's face unchanged. Timeless.",
       "tags": [
         "50s",
@@ -970,7 +970,7 @@
       "id": "ret5",
       "title": "60s Mod",
       "category": "retro",
-      "image": "https://loremflickr.com/600/800/retro,fashion?lock=165",
+      "image": "https://bsmsites.com/promptora_ai_images/ret5.png",
       "prompt": "1960s mod-fashion portrait, bold graphic colours, playful styling, clean studio light. Keep the uploaded face identical. Pop retro tone.",
       "tags": [
         "60s",
@@ -984,7 +984,7 @@
       "id": "ret6",
       "title": "Old Bollywood",
       "category": "retro",
-      "image": "https://loremflickr.com/600/800/vintage,portrait?lock=166",
+      "image": "https://bsmsites.com/promptora_ai_images/ret6.png",
       "prompt": "Vintage old-Bollywood-style portrait, warm filmic glow, dramatic classic lighting, rich saturated tones. Keep the person's identity exactly. Nostalgic.",
       "tags": [
         "vintage",
